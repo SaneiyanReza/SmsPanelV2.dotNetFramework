@@ -1,6 +1,6 @@
 
 # SMS.IR .NET Framework SDK         
-[![NuGet](https://img.shields.io/badge/nuget-v1.0.1-blue?logo=nuget)](https://www.nuget.org/packages/IPE.SmsIr.NetFramework)
+[![NuGet](https://img.shields.io/badge/nuget-v1.0.2-blue?logo=nuget)](https://www.nuget.org/packages/IPE.SmsIr.NetFramework)
 [![NuGet](https://img.shields.io/badge/supported_.net_framework_versions->=_4.5.1-4CAF50?logo=.net)](https://www.nuget.org/packages/IPE.SmsIr.NetFramework/#supportedframeworks-body-tab)
 
 Sms.ir provides a simple HTTP-based API for sending and receiving text messages.
